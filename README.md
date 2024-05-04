@@ -8,7 +8,7 @@ Modelo de um portfólio online totalmente responsivo
 
 ### Screenshot Desktop 💻
 
-<img src="/portfolio.png" width="500" height="265" />
+<img src="/portfolio.png" />
 
 ### Screenshot Mobile 📱
 
