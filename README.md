@@ -12,7 +12,7 @@ Modelo de um portfólio online totalmente responsivo
 
 ### Screenshot Mobile 📱
 
-<img src="/portfoliomobile.png" />
+<img src="/portfoliomobile.jpeg" />
 
 ### Tecnologias usadas 📚
 
