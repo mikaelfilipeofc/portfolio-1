@@ -6,7 +6,13 @@ Modelo de um portfólio online totalmente responsivo
 
 (https://portmikael.netlify.app/)
 
+### Screenshot Desktop 💻
+
 <img src="/portfolio.png" />
+
+### Screenshot Mobile 📱
+
+<img src="/portfoliomobile.png" />
 
 ### Tecnologias usadas 📚
 
